@@ -1,0 +1,53 @@
+.title{
+    font-family:Komu A;
+    font-weight:bold;
+    font-size:80px;
+    letter-spacing: 0px;
+    color: #130D0D;
+    opacity: 1;
+}
+
+.subtitle{
+    font-weight:normal;
+    font-family:Josefin Sans;
+    font-size:26px;
+    letter-spacing: 0px;
+    color: #130D0D;
+    opacity: 1;
+}
+
+.section{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.loginTitle{
+    font-weight:lighter;
+    font-family:Span;
+    font-size:34px;
+    letter-spacing: 0px;
+    color: #130D0D;
+    opacity: 1;
+}
+
+.email .password{
+
+    font-weight:normal;
+    font-family:Josefin Sans;
+    font-size:16px;
+    letter-spacing: 0px;
+    color: #130D0D;
+    opacity: 1;
+}
+
+.loginButton {
+    background: #FE6F21 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    opacity: 1;
+    width: 20vh;
+    color:black;
+}

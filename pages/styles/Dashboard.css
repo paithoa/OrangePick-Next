@@ -1,0 +1,16 @@
+.customOverlay {
+    background: rgba(110, 107, 107, 0.9);
+  }
+  .customModal {
+    background: #D5D5D5;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .titleDetails{
+    font-size:28px;
+    font-weight:lighter;
+    font-family: Span;
+    letter-spacing: 0px;
+    color: #130D0D; 
+  }
